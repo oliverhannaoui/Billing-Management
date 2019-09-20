@@ -1,4 +1,4 @@
-# Billing Roster <p>
+# Billing Management Automation <p>
 A simple program to help automate the monitoring of balances for my position as treasurer of my fraternity which accomplishes the following:
  <ul>
   <li>Automatically logs into the financial management website used by my organization with the Selenium library</li>
