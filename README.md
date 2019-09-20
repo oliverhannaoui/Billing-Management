@@ -1,5 +1,5 @@
 # Billing Management Automation <p>
-A simple program to help automate the monitoring of balances for my position as treasurer of my fraternity which accomplishes the following:
+A simple program to help automate the monitoring of balances for my position as treasurer of an organzation on campus which accomplishes the following:
  <ul>
   <li>Automatically logs into the financial management website used by my organization with the Selenium library</li>
   <li>Navigates the website to arrive to the dynamic billing roster page</li>
